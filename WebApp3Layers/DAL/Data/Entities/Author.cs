@@ -9,6 +9,7 @@ namespace DAL.Data.Entities
 {
     public class Author:BaseEntity
     {
+        //kkk
         public string FirstName { get; set; } = null!;
         public string LastName { get; set; } = null!;
 
